@@ -7,9 +7,9 @@ image: assets/images/blog/Gleam_Campaign-twitter-opt1_6.png
 
 _DKleine’s Atomic Zombies NFTs rise from the dead as they feed on their online encounters_
 
-NFTs are dead, and it’s time to say hello to undead NFTs — a thrilling new breed of NFTs which is dynamic, efficient, and feeds on attention to pay you back for taking a chance with them.
+NFTs are dead, and it’s time to say hello to undead NFTs — a thrilling new breed of NFTs which is dynamic, efficient, and feeds on attention to pay you back in KOII.
 
-Tomorrow at 1pm ET, renowned artist and NFT creator [DKleine](https://twitter.com/_dkleine){:target="\_blank"} unleashes [Atomic Zombies](http://atomiczombies.io){:target="\_blank"}, a collection of 10,000 zombie NFTs — all of which are unearthed with a generative set of evolving characteristics. The first cross-chain “horde” will be swarming through the NFT world this Halloween season, rewarding their owners for unleashing them on other online denizens.
+This evening, renowned artist and NFT creator [DKleine](https://twitter.com/_dkleine){:target="\_blank"} unleashes [Atomic Zombies](http://atomiczombies.io){:target="\_blank"}, a collection of 10,000 zombie NFTs — all of which are unearthed with a generative set of evolving characteristics. The first cross-chain “horde” will be swarming through the NFT world this Halloween season, rewarding their owners for unleashing them on other online denizens.
 
 Atomic Zombies is launched in collaboration with Koii, and is the first large-scale generative project to explore the unique attention-rewards opportunities of the Arweave and Koii protocols. Intrepid collectors have the chance to unlock rare attributes for their Atomic NFT once they are unearthed, and your zombie will spring into action immediately after it is activated on the Areave blockchain, earning KOII tokens for you each time it is viewed online. Of course these Atomic Zombies never truly die even if they are starved for attention, and this collection will live on forever... with new features continuously introduced as these radioactive creations take on a life of their own.
 
@@ -19,10 +19,10 @@ So what are you waiting for? [Join the horde](http://atomiczombies.io){:target="
 
 ## Drop Details
 
-10,000 Atomic Zombies have been minted, with 5,000 on OpenSea and the other 5,000 available on Arweave.
+10,000 Atomic Zombies have been minted, with the first horde of 1000 available now.
 
-- OpenSea: Of the 5,000 minted on OpenSea, 500 are now available for purchase at a “buy now” price of 0.02 ETH. Zombies purchased on OpenSea will not have their characteristics revealed until the NFTs are transferred onto the Koii network (see next section).
-- Arweave: Of the 5,000 minted on Arweave, 350 are now available for purchase for 10 KOII. KOII holders can purchase Zombie NFTs directly through the [Atomic Zombie website](http://atomiczombies.io){:target="\_blank"}. The remaining 150 Arweave-minted Atomic Zombies are being held captive by the Koii team and will be unleashed for community activations. (Keep an eye out soon!)
+- Buy in ETH: Of the 5,000 minted on for purchase in ETH, 425 are now available for purchase at a “buy now” price of 0.02 ETH on the [Atomic Zombie website](http://atomiczombies.io){:target="\_blank"}. Zombies purchased in ETH will not have their characteristics revealed until the NFTs are transferred onto the Koii network (see next section).
+- Buy in KOII: Of the 5,000 minted on Arweave, 425 are now available for purchase for 10 KOII. KOII holders can purchase Zombie NFTs directly through the [Atomic Zombie website](http://atomiczombies.io){:target="\_blank"}. The remaining 150 Arweave-minted Atomic Zombies are being held captive by the Koii team and will be unleashed for community activations. (Keep an eye out soon!)
 
 Atomic Zombies will be released in hordes of 1,000 NFTs at a time, and only 1,000 of the total 10,000 Atomic Zombie NFTs are currently available. As the market raises their zombies from the dead, more and more hordes will be released. 🧟
 
